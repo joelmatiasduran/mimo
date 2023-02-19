@@ -15,7 +15,11 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
       <h1>Encontra a Mimo</h1>
-      <Image src="/Mimo.jpg" alt="me" height="900" width="800" />     
+      <h2>Mimo es un gato con la cola atigrada gris y tiene los ojos como en la foto </h2>
+      <h3>recompensa $65,000 pesos argentinos</h3>
+      <h4>Contacto unicamente por whatsapp y con video de Mimo a +54 9 1127798964, o correo a joelmatiasduran@gmail.com</h4>
+      <Image src="/Mimo.jpg" alt="mimo" height="900" width="800" />     
+      <Image src="/mimo2.jpg" alt="mimo" height="900" width="800" />     
        </main>
     </>
   )
