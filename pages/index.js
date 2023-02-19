@@ -19,8 +19,8 @@ export default function Home() {
       <h3  className={inter.className}>Recompensa $65,000 pesos argentinos</h3>
       <h4  className={inter.className}>Contacto unicamente por whatsapp y con video de Mimo a +54 9 1127798964, o correo a joelmatiasduran@gmail.com</h4>
       <h5 className={inter.className}> gracias!</h5>
-      <Image src="/Mimo.jpg" alt="mimo" height="900" width="800" />     
-      <Image src="/mimo2.jpg" alt="mimo" height="900" width="800" />     
+      <Image src="/Mimo.jpg" alt="mimo" height="500" width="600"  />     
+      <Image src="/mimo2.jpg" alt="mimo" height="500" width="600" />     
        </main>
     </>
   )
